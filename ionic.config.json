@@ -1,0 +1,7 @@
+{
+  "name": "labex9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
